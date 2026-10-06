@@ -1,0 +1,251 @@
+﻿Project_ID,Project_Name,Project_Manager,Project_Status,Line_of_Business,Start_Date,End_Date,Planned_Budget,Total_Actuals,Risk_Rating
+1,Customer Data Platform Upgrade,Sarah Johnson,In Progress,Retail Banking,1/15/2024,11/30/2024,850000,420000,Moderate
+2,Fraud Analytics Modernization,David Kim,In Progress,Risk & Compliance,3/1/2024,2/15/2025,1200000,780000,High
+3,Mobile App Redesign,Priya Patel,In Progress,Digital Channels,2/10/2024,12/20/2024,600000,310000,Low
+4,Core Banking API Integration,Michael Chen,On Hold,Technology,11/1/2023,10/1/2024,1500000,1320000,High
+5,Wealth Portfolio Insights,Emily Davis,In Progress,Wealth Management,4/5/2024,1/31/2025,500000,190000,Moderate
+6,Call Center Automation,Robert Lee,Completed,Operations,1/20/2024,9/15/2024,300000,280000,Low
+7,Commercial Loan Workflow,Ana Rodriguez,In Progress,Commercial Banking,3/18/2024,3/1/2025,950000,520000,Moderate
+8,Cloud Migration Phase 2,Jason Miller,On Hold,Technology,10/10/2023,12/31/2024,2000000,1850000,High
+9,HR Talent Analytics,Olivia Brown,Completed,Human Resources,5/1/2024,11/1/2024,250000,230000,Low
+10,Regulatory Reporting Automation,Marcus Green,In Progress,Risk & Compliance,2/1/2024,4/30/2025,1100000,640000,High
+11,Branch Experience Refresh,Sophia Turner,In Progress,Retail Banking,1/5/2024,10/15/2024,700000,330000,Moderate
+12,Payments Modernization,Ethan Walker,On Hold,Payments,9/15/2023,12/20/2024,1800000,1600000,High
+13,Marketing Attribution Engine,Chloe Nguyen,Completed,Marketing,3/12/2024,12/1/2024,400000,150000,Low
+14,Cybersecurity Threat Dashboard,Daniel Scott,In Progress,Security,2/20/2024,1/10/2025,1300000,720000,High
+15,Customer 360 Insights,Mia Thompson,In Progress,Digital Channels,4/1/2024,2/28/2025,900000,280000,Moderate
+16,Finance Forecasting AI,Liam Martinez,Completed,Finance,1/25/2024,11/30/2024,650000,270000,Low
+17,ATM Software Upgrade,Noah Wilson,In Progress,Retail Banking,2/15/2024,12/15/2024,550000,310000,Moderate
+18,Vendor Risk Portal,Ava Hernandez,Completed,Procurement,3/5/2024,10/30/2024,350000,120000,Low
+19,Enterprise Data Governance,William Adams,On Hold,Enterprise Data,12/1/2023,12/31/2024,1600000,1400000,High
+20,Digital Identity Verification,Harper Clark,In Progress,Security,4/10/2024,1/15/2025,800000,260000,Moderate
+21,AI Contract Review Engine,Julia Ramirez,In Progress,Legal,3/12/2024,1/20/2025,450000,180000,Moderate
+22,Customer Feedback NLP Analyzer,Henry Collins,Not Started,Customer Experience,7/1/2024,6/30/2025,520000,0,Low
+23,Infrastructure Monitoring Upgrade,Isabella Foster,In Progress,Technology,2/18/2024,1/15/2025,1300000,640000,High
+24,Sales CRM Enhancement,Logan Price,Completed,Sales,11/10/2023,8/1/2024,380000,360000,Low
+25,Data Quality Automation Suite,Natalie Brooks,In Progress,Enterprise Data,1/22/2024,12/10/2024,900000,410000,Moderate
+26,Employee Wellness Portal,Kevin Sanders,Completed,Human Resources,12/5/2023,9/30/2024,300000,295000,Low
+27,Commercial Credit Risk Engine,Laura Bennett,In Progress,Commercial Banking,3/1/2024,3/15/2025,1400000,720000,High
+28,ATM Predictive Maintenance AI,Jacob Rivera,On Hold,Retail Banking,2/14/2024,2/1/2025,750000,310000,Moderate
+29,Vendor Invoice Digitization,Grace Mitchell,Completed,Procurement,10/20/2023,7/15/2024,280000,260000,Low
+30,Enterprise Logging Platform,Samuel Hughes,In Progress,Technology,1/10/2024,12/31/2024,1600000,830000,High
+31,Customer Loyalty Engine 2.0,Victoria Perez,In Progress,Marketing,3/5/2024,2/28/2025,600000,240000,Moderate
+32,Regulatory Change Tracker,Andrew Ross,Not Started,Risk & Compliance,6/1/2024,5/30/2025,500000,0,Low
+33,Digital Wallet Expansion,Hailey Cooper,In Progress,Payments,2/1/2024,1/10/2025,1100000,520000,High
+34,Workforce Planning Analytics,Brandon Murphy,Completed,Human Resources,11/15/2023,8/20/2024,350000,330000,Low
+35,Customer Dispute Automation,Alexa Ward,In Progress,Operations,3/18/2024,2/15/2025,800000,360000,Moderate
+36,Enterprise API Gateway Upgrade,Christian Reed,On Hold,Technology,12/1/2023,12/31/2024,2000000,1500000,High
+37,Commercial Pricing Optimization,Kayla Simmons,In Progress,Commercial Banking,4/1/2024,3/1/2025,950000,410000,Moderate
+38,Security Patch Automation,Tyler Morgan,Completed,Security,10/10/2023,6/30/2024,420000,400000,Low
+39,Customer Journey Mapping Tool,Allison Cox,In Progress,Customer Experience,2/20/2024,12/1/2024,500000,210000,Low
+40,Enterprise Data Catalog,Jonathan Bell,In Progress,Enterprise Data,1/25/2024,1/15/2025,1250000,580000,Moderate
+41,Finance Close Automation,Rebecca Gray,Completed,Finance,11/1/2023,9/1/2024,700000,690000,Low
+42,Branch Workforce Scheduler,Patrick Howard,In Progress,Retail Banking,3/10/2024,2/20/2025,650000,260000,Moderate
+43,AML Case Management Upgrade,Michelle Rivera,On Hold,Risk & Compliance,12/15/2023,12/31/2024,1500000,1200000,High
+44,Mobile Check Deposit Enhancements,Eric Patterson,In Progress,Digital Channels,2/5/2024,11/30/2024,550000,240000,Low
+45,Enterprise VPN Modernization,Kimberly Flores,In Progress,Technology,1/12/2024,12/15/2024,1400000,690000,High
+46,Customer Segmentation Engine 3.0,Steven Bryant,Completed,Marketing,10/1/2023,8/10/2024,480000,470000,Low
+47,Loan Origination Workflow AI,Samantha Jenkins,In Progress,Commercial Banking,3/22/2024,3/10/2025,1300000,510000,Moderate
+48,Data Encryption Modernization,Jordan Fisher,On Hold,Security,11/20/2023,12/31/2024,1700000,1500000,High
+49,Employee Learning Hub 2.0,Danielle Matthews,Completed,Human Resources,12/10/2023,9/15/2024,320000,300000,Low
+50,Customer Billing Automation,Shawn Edwards,In Progress,Operations,2/18/2024,1/25/2025,850000,390000,Moderate
+51,Enterprise Contract Repository,Julia Ramirez,In Progress,Legal,3/1/2024,1/10/2025,500000,210000,Moderate
+52,Customer Sentiment Dashboard,Henry Collins,Completed,Customer Experience,11/15/2023,8/1/2024,420000,400000,Low
+53,Network Resilience Upgrade,Isabella Foster,In Progress,Technology,2/12/2024,2/1/2025,1500000,720000,High
+54,Sales Incentive Automation,Logan Price,In Progress,Sales,1/20/2024,12/15/2024,600000,260000,Moderate
+55,Master Data Management Hub,Natalie Brooks,On Hold,Enterprise Data,12/1/2023,12/31/2024,1800000,1500000,High
+56,HR Onboarding Workflow,Kevin Sanders,Completed,Human Resources,10/10/2023,7/20/2024,300000,290000,Low
+57,Commercial Loan Pricing Engine,Laura Bennett,In Progress,Commercial Banking,3/5/2024,3/10/2025,1200000,540000,Moderate
+58,ATM Cash Optimization AI,Jacob Rivera,In Progress,Retail Banking,2/18/2024,1/25/2025,700000,330000,Moderate
+59,Procurement Spend Analyzer,Grace Mitchell,Completed,Procurement,11/1/2023,8/15/2024,350000,340000,Low
+60,Enterprise Cloud Security Suite,Samuel Hughes,On Hold,Security,12/15/2023,12/31/2024,2000000,1600000,High
+61,Marketing Campaign Optimizer,Victoria Perez,In Progress,Marketing,3/10/2024,2/20/2025,500000,210000,Moderate
+62,Regulatory Audit Workflow,Andrew Ross,Not Started,Risk & Compliance,6/10/2024,5/30/2025,450000,0,Low
+63,Real-Time Payments Hub,Hailey Cooper,In Progress,Payments,2/1/2024,1/15/2025,1300000,610000,High
+64,HR Compensation Analytics,Brandon Murphy,Completed,Human Resources,10/20/2023,7/30/2024,320000,300000,Low
+65,Operations Workforce AI,Alexa Ward,In Progress,Operations,3/15/2024,2/10/2025,900000,380000,Moderate
+66,Enterprise Network Firewall Upgrade,Christian Reed,On Hold,Technology,11/25/2023,12/31/2024,1700000,1400000,High
+67,Commercial Portfolio Analyzer,Kayla Simmons,In Progress,Commercial Banking,4/1/2024,3/20/2025,950000,420000,Moderate
+68,Security Incident Response Automation,Tyler Morgan,Completed,Security,10/1/2023,6/15/2024,400000,380000,Low
+69,Customer Experience Heatmap,Allison Cox,In Progress,Customer Experience,2/22/2024,12/5/2024,480000,200000,Low
+70,Enterprise Data Lake Expansion,Jonathan Bell,In Progress,Enterprise Data,1/18/2024,1/10/2025,1400000,650000,Moderate
+71,Finance Reconciliation Engine,Rebecca Gray,Completed,Finance,11/5/2023,9/10/2024,750000,720000,Low
+72,Retail Branch Cash Forecasting,Patrick Howard,In Progress,Retail Banking,3/12/2024,2/28/2025,600000,250000,Moderate
+73,Compliance Monitoring AI,Michelle Rivera,On Hold,Risk & Compliance,12/10/2023,12/31/2024,1600000,1300000,High
+74,Digital Account Opening Enhancements,Eric Patterson,In Progress,Digital Channels,2/8/2024,11/30/2024,520000,230000,Low
+75,Technology Asset Lifecycle Tool,Kimberly Flores,In Progress,Technology,1/15/2024,12/20/2024,1500000,700000,High
+76,Marketing Personalization Engine,Steven Bryant,Completed,Marketing,10/12/2023,8/5/2024,450000,430000,Low
+77,Commercial Underwriting AI,Samantha Jenkins,In Progress,Commercial Banking,3/20/2024,3/15/2025,1250000,500000,Moderate
+78,Security Access Governance,Jordan Fisher,On Hold,Security,11/18/2023,12/31/2024,1800000,1550000,High
+79,HR Employee Insights Dashboard,Danielle Matthews,Completed,Human Resources,12/1/2023,9/10/2024,310000,290000,Low
+80,Operations SLA Tracker,Shawn Edwards,In Progress,Operations,2/15/2024,1/20/2025,820000,350000,Moderate
+81,Legal Document AI Classifier,Julia Ramirez,In Progress,Legal,3/5/2024,1/25/2025,480000,200000,Moderate
+82,Customer Churn Predictor,Henry Collins,In Progress,Customer Experience,2/10/2024,12/15/2024,550000,240000,Low
+83,Technology Patch Compliance,Isabella Foster,In Progress,Technology,1/22/2024,1/5/2025,1350000,680000,High
+84,Sales Lead Scoring Engine,Logan Price,Completed,Sales,11/12/2023,8/20/2024,390000,370000,Low
+85,Enterprise Metadata Manager,Natalie Brooks,On Hold,Enterprise Data,12/5/2023,12/31/2024,1750000,1450000,High
+86,HR Workforce Mobility Tool,Kevin Sanders,Completed,Human Resources,10/15/2023,7/25/2024,330000,310000,Low
+87,Commercial Loan Fraud Detection,Laura Bennett,In Progress,Commercial Banking,3/2/2024,3/5/2025,1400000,600000,High
+88,Retail Teller Automation,Jacob Rivera,In Progress,Retail Banking,2/20/2024,1/30/2025,720000,300000,Moderate
+89,Procurement Contract Analyzer,Grace Mitchell,Completed,Procurement,11/10/2023,8/10/2024,360000,340000,Low
+90,Security Zero Trust Rollout,Samuel Hughes,On Hold,Security,12/12/2023,12/31/2024,2100000,1700000,High
+91,Marketing ROI Dashboard,Victoria Perez,In Progress,Marketing,3/8/2024,2/25/2025,520000,220000,Moderate
+92,Regulatory Filing Automation,Andrew Ross,Not Started,Risk & Compliance,6/15/2024,5/30/2025,480000,0,Low
+93,Payments Fraud Shield,Hailey Cooper,In Progress,Payments,2/5/2024,1/20/2025,1250000,590000,High
+94,HR Diversity Analytics,Brandon Murphy,Completed,Human Resources,10/18/2023,7/28/2024,340000,320000,Low
+95,Operations Workflow Engine,Alexa Ward,In Progress,Operations,3/18/2024,2/18/2025,880000,360000,Moderate
+96,Technology Monitoring AI,Christian Reed,On Hold,Technology,11/28/2023,12/31/2024,1650000,1380000,High
+97,Commercial Client Insights,Kayla Simmons,In Progress,Commercial Banking,4/3/2024,3/22/2025,980000,430000,Moderate
+98,Security Threat Intelligence Hub,Tyler Morgan,Completed,Security,10/5/2023,6/25/2024,410000,390000,Low
+99,Customer Experience Voice Analytics,Allison Cox,In Progress,Customer Experience,2/25/2024,12/10/2024,490000,210000,Low
+100,Enterprise Data Warehouse Refresh,Jonathan Bell,In Progress,Enterprise Data,1/20/2024,1/12/2025,1450000,670000,Moderate
+101,Finance Liquidity Analyzer,Rebecca Gray,Completed,Finance,11/8/2023,9/12/2024,780000,750000,Low
+102,Retail Customer Queue AI,Patrick Howard,In Progress,Retail Banking,3/15/2024,2/28/2025,620000,260000,Moderate
+103,Compliance Evidence Manager,Michelle Rivera,On Hold,Risk & Compliance,12/18/2023,12/31/2024,1550000,1280000,High
+104,Digital Card Issuance Upgrade,Eric Patterson,In Progress,Digital Channels,2/12/2024,11/30/2024,540000,230000,Low
+105,Technology Asset CMDB Refresh,Kimberly Flores,In Progress,Technology,1/18/2024,12/22/2024,1450000,690000,High
+106,Marketing Data Cleanroom,Steven Bryant,Completed,Marketing,10/15/2023,8/18/2024,460000,440000,Low
+107,Commercial Client Risk Profiler,Samantha Jenkins,In Progress,Commercial Banking,3/25/2024,3/20/2025,1280000,520000,Moderate
+108,Security Identity Governance 2.0,Jordan Fisher,On Hold,Security,11/22/2023,12/31/2024,1850000,1580000,High
+109,HR Talent Marketplace,Danielle Matthews,Completed,Human Resources,12/5/2023,9/18/2024,315000,300000,Low
+110,Operations Real-Time Dashboard,Shawn Edwards,In Progress,Operations,2/20/2024,1/28/2025,860000,370000,Moderate
+111,Legal Case Prioritization AI,Julia Ramirez,In Progress,Legal,3/8/2024,1/30/2025,490000,210000,Moderate
+112,Customer Lifetime Value Engine,Henry Collins,In Progress,Customer Experience,2/12/2024,12/18/2024,560000,250000,Low
+113,Technology Patch Automation 2.0,Isabella Foster,In Progress,Technology,1/25/2024,1/10/2025,1380000,690000,High
+114,Sales Territory Optimization,Logan Price,Completed,Sales,11/18/2023,8/25/2024,395000,380000,Low
+115,Enterprise Data Governance Portal,Natalie Brooks,On Hold,Enterprise Data,12/10/2023,12/31/2024,1780000,1480000,High
+116,HR Workforce Planning Tool,Kevin Sanders,Completed,Human Resources,10/18/2023,7/30/2024,335000,315000,Low
+117,Commercial Loan Servicing AI,Laura Bennett,In Progress,Commercial Banking,3/8/2024,3/18/2025,1420000,610000,High
+118,Retail Branch Optimization,Jacob Rivera,In Progress,Retail Banking,2/22/2024,1/28/2025,740000,320000,Moderate
+119,Procurement Risk Analyzer,Grace Mitchell,Completed,Procurement,11/12/2023,8/12/2024,365000,350000,Low
+120,Security Endpoint Hardening,Samuel Hughes,On Hold,Security,12/18/2023,12/31/2024,2150000,1720000,High
+121,Marketing Attribution 2.0,Victoria Perez,In Progress,Marketing,3/12/2024,2/28/2025,530000,230000,Moderate
+122,Regulatory Policy Tracker,Andrew Ross,Not Started,Risk & Compliance,6/20/2024,5/30/2025,490000,0,Low
+123,Payments Tokenization Upgrade,Hailey Cooper,In Progress,Payments,2/10/2024,1/22/2025,1270000,600000,High
+124,HR Engagement Insights,Brandon Murphy,Completed,Human Resources,10/22/2023,7/28/2024,345000,325000,Low
+125,Operations SLA Automation,Alexa Ward,In Progress,Operations,3/20/2024,2/22/2025,890000,380000,Moderate
+126,Technology Capacity Planner,Christian Reed,On Hold,Technology,11/30/2023,12/31/2024,1680000,1400000,High
+127,Commercial Client Profitability,Kayla Simmons,In Progress,Commercial Banking,4/5/2024,3/25/2025,990000,440000,Moderate
+128,Security Threat Modeling Engine,Tyler Morgan,Completed,Security,10/8/2023,6/28/2024,420000,395000,Low
+129,Customer Experience Analyzer 2.0,Allison Cox,In Progress,Customer Experience,2/28/2024,12/12/2024,500000,220000,Low
+130,Enterprise Data Pipeline Upgrade,Jonathan Bell,In Progress,Enterprise Data,1/22/2024,1/15/2025,1480000,680000,Moderate
+131,Finance Audit Automation,Rebecca Gray,Completed,Finance,11/10/2023,9/15/2024,790000,760000,Low
+132,Retail Cash Handling AI,Patrick Howard,In Progress,Retail Banking,3/18/2024,3/1/2025,630000,270000,Moderate
+133,Compliance Case Routing,Michelle Rivera,On Hold,Risk & Compliance,12/20/2023,12/31/2024,1580000,1320000,High
+134,Digital Card Fraud Detection,Eric Patterson,In Progress,Digital Channels,2/15/2024,11/30/2024,560000,240000,Low
+135,Technology Asset Discovery,Kimberly Flores,In Progress,Technology,1/20/2024,12/25/2024,1520000,710000,High
+136,Marketing Data Hub,Steven Bryant,Completed,Marketing,10/18/2023,8/22/2024,470000,450000,Low
+137,Commercial Loan Analyzer 2.0,Samantha Jenkins,In Progress,Commercial Banking,3/28/2024,3/28/2025,1300000,530000,Moderate
+138,Security Access Control Upgrade,Jordan Fisher,On Hold,Security,11/25/2023,12/31/2024,1880000,1600000,High
+139,HR Workforce Insights 2.0,Danielle Matthews,Completed,Human Resources,12/8/2023,9/20/2024,320000,300000,Low
+140,Operations KPI Dashboard,Shawn Edwards,In Progress,Operations,2/25/2024,1/30/2025,870000,390000,Moderate
+141,Legal Discovery Automation,Julia Ramirez,In Progress,Legal,3/10/2024,2/1/2025,500000,220000,Moderate
+142,Customer Retention Predictor,Henry Collins,In Progress,Customer Experience,2/15/2024,12/20/2024,570000,260000,Low
+143,Technology Patch Manager,Isabella Foster,In Progress,Technology,1/28/2024,1/18/2025,1400000,700000,High
+144,Sales Performance Insights,Logan Price,Completed,Sales,11/20/2023,8/28/2024,400000,380000,Low
+145,Enterprise Data Quality Engine,Natalie Brooks,On Hold,Enterprise Data,12/12/2023,12/31/2024,1800000,1500000,High
+146,HR Talent Forecasting,Kevin Sanders,Completed,Human Resources,10/20/2023,7/30/2024,340000,320000,Low
+147,Commercial Credit Analyzer,Laura Bennett,In Progress,Commercial Banking,3/12/2024,3/30/2025,1450000,620000,High
+148,Retail Teller Workflow,Jacob Rivera,In Progress,Retail Banking,2/25/2024,1/30/2025,760000,330000,Moderate
+149,Procurement Spend Insights,Grace Mitchell,Completed,Procurement,11/15/2023,8/18/2024,370000,350000,Low
+150,Security Endpoint Analytics,Samuel Hughes,On Hold,Security,12/20/2023,12/31/2024,2200000,1750000,High
+151,Marketing Segmentation AI,Victoria Perez,In Progress,Marketing,3/15/2024,2/28/2025,540000,240000,Moderate
+152,Regulatory Compliance Hub,Andrew Ross,Not Started,Risk & Compliance,6/25/2024,5/30/2025,500000,0,Low
+153,Payments Dispute Automation,Hailey Cooper,In Progress,Payments,2/12/2024,1/25/2025,1290000,620000,High
+154,HR Workforce Analytics 3.0,Brandon Murphy,Completed,Human Resources,10/25/2023,7/30/2024,350000,330000,Low
+155,Operations Workflow Insights,Alexa Ward,In Progress,Operations,3/22/2024,2/28/2025,900000,400000,Moderate
+156,Technology Monitoring Suite,Christian Reed,On Hold,Technology,12/2/2023,12/31/2024,1700000,1420000,High
+157,Commercial Client Analyzer 3.0,Kayla Simmons,In Progress,Commercial Banking,4/8/2024,3/28/2025,1000000,450000,Moderate
+158,Security Threat Detection AI,Tyler Morgan,Completed,Security,10/10/2023,6/30/2024,430000,400000,Low
+159,Customer Experience Analyzer 3.0,Allison Cox,In Progress,Customer Experience,3/1/2024,12/15/2024,510000,230000,Low
+160,Enterprise Data Pipeline 2.0,Jonathan Bell,In Progress,Enterprise Data,1/25/2024,1/20/2025,1500000,690000,Moderate
+161,Finance Risk Analyzer,Rebecca Gray,Completed,Finance,11/12/2023,9/18/2024,800000,770000,Low
+162,Retail Cash Automation,Patrick Howard,In Progress,Retail Banking,3/20/2024,3/5/2025,640000,280000,Moderate
+163,Compliance Workflow Engine,Michelle Rivera,On Hold,Risk & Compliance,12/22/2023,12/31/2024,1600000,1350000,High
+164,Digital Card Platform 2.0,Eric Patterson,In Progress,Digital Channels,2/18/2024,11/30/2024,580000,250000,Low
+165,Technology Asset Manager 2.0,Kimberly Flores,In Progress,Technology,1/22/2024,12/28/2024,1550000,720000,High
+166,Marketing Optimization Engine,Steven Bryant,Completed,Marketing,10/20/2023,8/30/2024,480000,460000,Low
+167,Commercial Loan AI 3.0,Samantha Jenkins,In Progress,Commercial Banking,3/30/2024,3/30/2025,1320000,540000,Moderate
+168,Security Identity Manager,Jordan Fisher,On Hold,Security,11/28/2023,12/31/2024,1900000,1620000,High
+169,HR Workforce Insights 4.0,Danielle Matthews,Completed,Human Resources,12/10/2023,9/25/2024,330000,310000,Low
+170,Operations KPI Engine,Shawn Edwards,In Progress,Operations,2/28/2024,1/30/2025,880000,410000,Moderate
+171,Legal Document Analyzer 2.0,Julia Ramirez,In Progress,Legal,3/12/2024,2/5/2025,510000,230000,Moderate
+172,Customer Retention Engine 2.0,Henry Collins,In Progress,Customer Experience,2/18/2024,12/22/2024,580000,270000,Low
+173,Technology Patch Suite 3.0,Isabella Foster,In Progress,Technology,1/30/2024,1/22/2025,1420000,710000,High
+174,Sales Performance Engine 2.0,Logan Price,Completed,Sales,11/22/2023,8/30/2024,410000,390000,Low
+175,Enterprise Data Quality 2.0,Natalie Brooks,On Hold,Enterprise Data,12/15/2023,12/31/2024,1820000,1520000,High
+176,HR Talent Insights 2.0,Kevin Sanders,Completed,Human Resources,10/22/2023,7/30/2024,345000,325000,Low
+177,Commercial Credit Engine 2.0,Laura Bennett,In Progress,Commercial Banking,3/15/2024,3/30/2025,1470000,630000,High
+178,Retail Teller AI 2.0,Jacob Rivera,In Progress,Retail Banking,2/28/2024,1/30/2025,780000,340000,Moderate
+179,Procurement Spend Engine 2.0,Grace Mitchell,Completed,Procurement,11/18/2023,8/30/2024,380000,360000,Low
+180,Security Endpoint Suite 2.0,Samuel Hughes,On Hold,Security,12/22/2023,12/31/2024,2250000,1780000,High
+181,Marketing Segmentation 3.0,Victoria Perez,In Progress,Marketing,3/18/2024,2/28/2025,550000,250000,Moderate
+182,Regulatory Compliance Engine,Andrew Ross,Not Started,Risk & Compliance,6/28/2024,5/30/2025,510000,0,Low
+183,Payments Fraud Engine 2.0,Hailey Cooper,In Progress,Payments,2/15/2024,1/28/2025,1310000,630000,High
+184,HR Workforce Analytics 4.0,Brandon Murphy,Completed,Human Resources,10/28/2023,7/30/2024,360000,340000,Low
+185,Operations Workflow Engine 2.0,Alexa Ward,In Progress,Operations,3/25/2024,2/28/2025,910000,420000,Moderate
+186,Technology Monitoring Engine,Christian Reed,On Hold,Technology,12/5/2023,12/31/2024,1720000,1440000,High
+187,Commercial Client Analyzer 4.0,Kayla Simmons,In Progress,Commercial Banking,4/10/2024,3/30/2025,1020000,460000,Moderate
+188,Security Threat Engine 2.0,Tyler Morgan,Completed,Security,10/12/2023,6/30/2024,440000,410000,Low
+189,Customer Experience Engine 4.0,Allison Cox,In Progress,Customer Experience,3/5/2024,12/20/2024,520000,240000,Low
+190,Enterprise Data Pipeline 3.0,Jonathan Bell,In Progress,Enterprise Data,1/28/2024,1/25/2025,1520000,700000,Moderate
+191,Finance Risk Engine 2.0,Rebecca Gray,Completed,Finance,11/15/2023,9/20/2024,810000,780000,Low
+192,Retail Cash Engine 2.0,Patrick Howard,In Progress,Retail Banking,3/22/2024,3/5/2025,650000,290000,Moderate
+193,Compliance Workflow Engine 2.0,Michelle Rivera,On Hold,Risk & Compliance,12/25/2023,12/31/2024,1620000,1380000,High
+194,Digital Card Platform 3.0,Eric Patterson,In Progress,Digital Channels,2/20/2024,11/30/2024,600000,260000,Low
+195,Technology Asset Manager 3.0,Kimberly Flores,In Progress,Technology,1/25/2024,12/28/2024,1580000,730000,High
+196,Marketing Optimization 2.0,Steven Bryant,Completed,Marketing,10/22/2023,8/30/2024,490000,470000,Low
+197,Commercial Loan AI 4.0,Samantha Jenkins,In Progress,Commercial Banking,3/30/2024,3/30/2025,1340000,550000,Moderate
+198,Security Identity Manager 2.0,Jordan Fisher,On Hold,Security,11/30/2023,12/31/2024,1920000,1640000,High
+199,HR Workforce Insights 5.0,Danielle Matthews,Completed,Human Resources,12/12/2023,9/28/2024,340000,320000,Low
+200,Operations KPI Engine 2.0,Shawn Edwards,In Progress,Operations,3/1/2024,1/30/2025,890000,430000,Moderate
+201,Legal Document Analyzer 3.0,Julia Ramirez,In Progress,Legal,3/15/2024,2/10/2025,520000,240000,Moderate
+202,Customer Retention Engine 3.0,Henry Collins,In Progress,Customer Experience,2/20/2024,7/16/1905,1920000,400000,Low
+203,Customer Retention Engine 4.0,Henry Collins,In Progress,Customer Experience,2/22/2024,12/28/2024,590000,280000,Low
+204,Technology Patch Suite 4.0,Isabella Foster,In Progress,Technology,2/1/2024,1/25/2025,1440000,720000,High
+205,Sales Performance Engine 3.0,Logan Price,Completed,Sales,11/25/2023,9/1/2024,420000,400000,Low
+206,Enterprise Data Quality 3.0,Natalie Brooks,On Hold,Enterprise Data,12/18/2023,12/31/2024,1840000,1540000,High
+207,HR Talent Insights 3.0,Kevin Sanders,Completed,Human Resources,10/25/2023,7/30/2024,350000,330000,Low
+208,Commercial Credit Engine 3.0,Laura Bennett,In Progress,Commercial Banking,3/18/2024,3/30/2025,1490000,640000,High
+209,Retail Teller AI 3.0,Jacob Rivera,In Progress,Retail Banking,3/1/2024,1/30/2025,800000,350000,Moderate
+210,Procurement Spend Engine 3.0,Grace Mitchell,Completed,Procurement,11/20/2023,8/30/2024,390000,370000,Low
+211,Security Endpoint Suite 3.0,Samuel Hughes,On Hold,Security,12/25/2023,12/31/2024,2300000,1800000,High
+212,Marketing Segmentation 4.0,Victoria Perez,In Progress,Marketing,3/20/2024,2/28/2025,560000,260000,Moderate
+213,Regulatory Compliance Engine 2.0,Andrew Ross,Not Started,Risk & Compliance,6/30/2024,5/30/2025,520000,0,Low
+214,Payments Fraud Engine 3.0,Hailey Cooper,In Progress,Payments,2/18/2024,1/30/2025,1330000,640000,High
+215,HR Workforce Analytics 5.0,Brandon Murphy,Completed,Human Resources,10/30/2023,7/30/2024,370000,350000,Low
+216,Operations Workflow Engine 3.0,Alexa Ward,In Progress,Operations,3/28/2024,2/28/2025,920000,430000,Moderate
+217,Technology Monitoring Engine 2.0,Christian Reed,On Hold,Technology,12/8/2023,12/31/2024,1750000,1460000,High
+218,Commercial Client Analyzer 5.0,Kayla Simmons,In Progress,Commercial Banking,4/12/2024,3/30/2025,1040000,470000,Moderate
+219,Security Threat Engine 3.0,Tyler Morgan,Completed,Security,10/15/2023,6/30/2024,450000,420000,Low
+220,Customer Experience Engine 5.0,Allison Cox,In Progress,Customer Experience,3/8/2024,12/22/2024,530000,250000,Low
+221,Enterprise Data Pipeline 4.0,Jonathan Bell,In Progress,Enterprise Data,1/30/2024,1/28/2025,1540000,710000,Moderate
+222,Finance Risk Engine 3.0,Rebecca Gray,Completed,Finance,11/18/2023,9/25/2024,820000,790000,Low
+223,Retail Cash Engine 3.0,Patrick Howard,In Progress,Retail Banking,3/25/2024,3/5/2025,660000,300000,Moderate
+224,Compliance Workflow Engine 3.0,Michelle Rivera,On Hold,Risk & Compliance,12/28/2023,12/31/2024,1650000,1400000,High
+225,Digital Card Platform 4.0,Eric Patterson,In Progress,Digital Channels,2/22/2024,11/30/2024,620000,270000,Low
+226,Technology Asset Manager 4.0,Kimberly Flores,In Progress,Technology,1/28/2024,12/28/2024,1600000,740000,High
+227,Marketing Optimization 3.0,Steven Bryant,Completed,Marketing,10/25/2023,8/30/2024,500000,480000,Low
+228,Commercial Loan AI 5.0,Samantha Jenkins,In Progress,Commercial Banking,4/1/2024,3/30/2025,1360000,560000,Moderate
+229,Security Identity Manager 3.0,Jordan Fisher,On Hold,Security,12/1/2023,12/31/2024,1940000,1660000,High
+230,HR Workforce Insights 6.0,Danielle Matthews,Completed,Human Resources,12/15/2023,9/30/2024,350000,330000,Low
+231,Operations KPI Engine 3.0,Shawn Edwards,In Progress,Operations,3/5/2024,1/30/2025,900000,440000,Moderate
+232,Legal Document Analyzer 4.0,Julia Ramirez,In Progress,Legal,3/18/2024,2/10/2025,530000,250000,Moderate
+233,Customer Retention Engine 5.0,Henry Collins,In Progress,Customer Experience,2/25/2024,12/28/2024,600000,290000,Low
+234,Technology Patch Suite 5.0,Isabella Foster,In Progress,Technology,2/5/2024,1/28/2025,1460000,730000,High
+235,Sales Performance Engine 4.0,Logan Price,Completed,Sales,11/28/2023,9/5/2024,430000,410000,Low
+236,Enterprise Data Quality 4.0,Natalie Brooks,On Hold,Enterprise Data,12/20/2023,12/31/2024,1860000,1560000,High
+237,HR Talent Insights 4.0,Kevin Sanders,Completed,Human Resources,10/28/2023,7/30/2024,360000,340000,Low
+238,Commercial Credit Engine 4.0,Laura Bennett,In Progress,Commercial Banking,3/20/2024,3/30/2025,1500000,650000,High
+239,Retail Teller AI 4.0,Jacob Rivera,In Progress,Retail Banking,3/5/2024,1/30/2025,820000,360000,Moderate
+240,Procurement Spend Engine 4.0,Grace Mitchell,Completed,Procurement,11/22/2023,8/30/2024,400000,380000,Low
+241,Security Endpoint Suite 4.0,Samuel Hughes,On Hold,Security,12/28/2023,12/31/2024,2350000,1820000,High
+242,Marketing Segmentation 5.0,Victoria Perez,In Progress,Marketing,3/22/2024,2/28/2025,570000,270000,Moderate
+243,Regulatory Compliance Engine 4.0,Andrew Ross,Not Started,Risk & Compliance,7/1/2024,5/30/2025,530000,0,Low
+244,Payments Fraud Engine 4.0,Hailey Cooper,In Progress,Payments,2/20/2024,1/30/2025,1350000,650000,High
+245,HR Workforce Analytics 6.0,Brandon Murphy,Completed,Human Resources,11/1/2023,7/30/2024,380000,360000,Low
+246,Operations Workflow Engine 4.0,Alexa Ward,In Progress,Operations,3/28/2024,2/28/2025,930000,450000,Moderate
+247,Technology Monitoring Engine 3.0,Christian Reed,On Hold,Technology,12/10/2023,12/31/2024,1780000,1480000,High
+248,Commercial Client Analyzer 6.0,Kayla Simmons,In Progress,Commercial Banking,4/15/2024,3/30/2025,1060000,480000,Moderate
+249,Security Threat Engine 4.0,Tyler Morgan,Completed,Security,10/18/2023,6/30/2024,460000,430000,Low
+250,Customer Experience Engine 6.0,Allison Cox,In Progress,Customer Experience,3/10/2024,12/30/2024,540000,260000,Low
